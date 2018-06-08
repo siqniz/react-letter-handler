@@ -1,0 +1,8 @@
+.LetterList{
+    display: inline-block;
+    background-color: green;
+    width: 15px;
+    padding: 2px;
+    text-align: center;
+    margin: 5px
+}
