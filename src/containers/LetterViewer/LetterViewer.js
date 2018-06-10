@@ -10,7 +10,6 @@ class LetterViewer extends Component {
         return (
             <div className={classes.LetterViewer}>
                 <LetterList />
-                
             </div>
         )
     }

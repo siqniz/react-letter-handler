@@ -47,7 +47,7 @@ class LetterList extends Component {
                     {letters}
                 </div>
                 <div>
-                    <Route path="/" component={Letter} />
+                    <Route path="/Letter" component={Letter} />
                 </div>
             </div>
 
